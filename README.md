@@ -12,7 +12,11 @@ Skills:
 * VIC Code
 * 
 - 🌱 I’m currently learning Solving software problems 
-- 💬 Ask me about Steps of self-education 
+- 💬 Ask me about Steps of self-education
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/account)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamad-qanass-635017256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/7mo.qa?igsh=N3hubHc0dXl2bnRj&utm_source=qr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mqanass.github.io/My-Website/)  
+
+
 
 
 
