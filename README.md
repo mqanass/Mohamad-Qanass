@@ -11,7 +11,7 @@ Skills:
 * C
 * VIC Code
 
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1086d9abd729a89d3d2c32da0ef5b398-1647801662/Animation_2/create-custom-gif-animation-for-your-website.gif" alt="img"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPG3B99Y3WsGBNPQfWSDYWCRipWItXWX1kSw&usqp=CAU" alt="img"/>
  
 - 🌱 I’m currently learning Solving software problems 
 - 💬 Ask me about Steps of self-education
