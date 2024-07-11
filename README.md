@@ -11,7 +11,7 @@ Skills:
 * C
 * VIC Code
 
-  <img src="https://i.gifer.com/7Vvx.gif" alt="gif"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEC-w3d172rkTFc1Cj1NpwCDFYrIUczcOtA&usqp=CAU"/>
  
 - 🌱 I’m currently learning Solving software problems 
 - 💬 Ask me about Steps of self-education
