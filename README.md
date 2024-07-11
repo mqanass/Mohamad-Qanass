@@ -9,7 +9,15 @@ Skills:
 * JS 
 * Python
 * C
-* VIC Code 
+* VIC Code
+* 
+- 🌱 I’m currently learning Solving software problems 
+- 💬 Ask me about Steps of self-education 
+
+
+
+
+
 
 
 
