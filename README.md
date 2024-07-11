@@ -11,7 +11,7 @@ Skills:
 * C
 * VIC Code
 
-  <img src="https://iconscout.com/lottie-animation/web-development-9084817" alt="gif"/>
+  <img src="https://i.gifer.com/7Vvx.gif" alt="gif"/>
  
 - 🌱 I’m currently learning Solving software problems 
 - 💬 Ask me about Steps of self-education
