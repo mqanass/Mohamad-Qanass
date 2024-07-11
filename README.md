@@ -10,6 +10,8 @@ Skills:
 * Python
 * C
 * VIC Code
+
+  <img src="https://iconscout.com/lottie-animation/web-development-9084817" alt="gif"/>
  
 - 🌱 I’m currently learning Solving software problems 
 - 💬 Ask me about Steps of self-education
