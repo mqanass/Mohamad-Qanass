@@ -7,6 +7,7 @@ I am a passionate web developer with a keen interest in back-end development. I 
 * HTML
 * CSS
 * JS 
+* Pootstrap
 * Python
 * C
 * VIC Code
