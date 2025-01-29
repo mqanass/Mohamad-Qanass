@@ -9,7 +9,6 @@ I am a passionate web developer with a keen interest in Full Stack development. 
 * JS 
 * Pootstrap
 * React
-* Python
 * C
 * VIC Code
 
